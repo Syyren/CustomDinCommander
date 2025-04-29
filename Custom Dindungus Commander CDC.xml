@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>CDC</name>
+			<longname>Custom Dindungus Commander</longname>
+			<settype>Custom</settype>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Nitwit, Average Tourist</name>
+			<text>Trample, haste
+Ward - Sacrifice a nonbasic land.
+When Nitwit enters or attacks, you may sacrifice an equipment or aura enchantment attached to it. If you do not, you may sacrifice an untapped, non-attacking creature, If you sacrifice a permanent this way, Nitwit deals X damage to any target then you may draw X cards and lose X life where X is Nitwit's power.</text>
+			<prop>
+				<type>Legendary Creature — Goblin Civilian</type>
+				<manacost>{B/R}{R/G}</manacost>
+				<cmc>2</cmc>
+				<color>BRG</color>
+				<layout>normal</layout>
+				<pt>1/1</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/dj8pdUU.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+		<card>
+			<name>Jace, of Bottomless Pockets</name>
+			<text>Cumulative upkeep — mill 1
+When Jace enters or leaves the battlefield, place all cards you own in exile and in your graveyard at the bottom of your library in a random order.
+If a card you own would be put in your graveyard or into exile, put it on the bottom of your library instead.
+At the beginning of your end step, If every card you own other than Jace is in your hand or in play, you win the game.</text>
+			<prop>
+				<type>Legendary Creature — Human Wizard</type>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<color>U</color>
+				<layout>normal</layout>
+				<pt>1/4</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/LzWs2ob.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+		<card>
+			<name>Self-Loathing</name>
+			<text>Flying
+Ward — Pay 5 life.
+Spells and abilities affect you as though you were an opponent.
+When Self-Loathing enters, spells and abilities affect you as though you were an opponent until end of turn.
+Evoke {2}</text>
+			<prop>
+				<type>Legendary Creature — Elemental Incarnation</type>
+				<manacost>1UB{R/G}</manacost>
+				<cmc>4</cmc>
+				<color>UBRG</color>
+				<layout>normal</layout>
+				<pt>1/5</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/JsiSWHT.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+		<card>
+			<name>Leon, The Rule Bender</name>
+			<text>Eminence: At the beginning of the game you create a "Leon's Terms and Conditions" emblem.
+(Inked card — an inked card is a card that its owner either controls on the battlefield or a card they own in exile with an ink counter on it.)
++1: You may remove up to three words from the textbox of an inked card.
+-3: You may add the word "when", "whenever" or "at" to the textbox of an inked card. You may then add up to four words to that card's textbox that define the trigger.
+-7: You may remove all words from the textbox of an inked card. If you do, add five words to that card's text box from among words removed this way.
+Leon can be your commander.</text>
+			<prop>
+				<type>Legendary Planeswalker</type>
+				<manacost>2WWUU</manacost>
+				<cmc>6</cmc>
+				<color>WU</color>
+				<layout>normal</layout>
+				<loyalty>5</loyalty>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/CotGwaZ.png">CDC</set>
+			<tablerow>1</tablerow>
+		</card>
+		
+		<card>
+			<name>Leon's Terms and Conditions</name>
+			<text>Commander Permanents you own and control named Leon, The Rule Bender gain:
+"You may cast spells from exile with ink counters on them. When you cast a spell this way, it retains changes made by Leon on the stack.
+If a triggered ability of a permanent you control triggers and that permanent has triggered three times this turn, or if the spell or ability would cause you to win the game, instead counter that ability, this ability cannot be countered.
+Cards cast and abilities altered by Leon must resolve as written. If no clear ruling can be made, they have no effect.
+0: You may reveal a card from your hand. Exile the revealed card with an ink counter on it. Activate only as a sorcery."</text>
+			<prop>
+				<type>Legendary Emblem</type>
+			</prop>
+			<set picURL="https://i.imgur.com/W2hpfIQ.png"/>
+			<tablerow>1</tablerow>
+			<reverse-related>Leon, The Rule Bender</reverse-related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
