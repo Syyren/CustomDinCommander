@@ -100,5 +100,44 @@ Cards cast and abilities altered by Leon must resolve as written. If no clear ru
 			<tablerow>1</tablerow>
 			<reverse-related>Leon, The Rule Bender</reverse-related>
 		</card>
+		
+			<cards>
+		<card>
+			<name>Luxia, Angel of Prosperity</name>
+			<text>Creatures you control have lifelink.
+Whenever you gain life, draw that many cards.
+As long as you have at least 40 more life than your starting life total, creatures you control have base power and toughness equal to your life total.
+{X}{W}{U}{t} You gain X life. </text>
+			<prop>
+				<type>Legendary Creature — Angel</type>
+				<manacost>WWUU</manacost>
+				<cmc>4</cmc>
+				<color>WU</color>
+				<layout>normal</layout>
+				<pt>2/2</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/y8QsgqC.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+				<card>
+			<name>Cheeky Bastard</name>
+			<text>Flash
+When this creature enters, your opponents cannot lose the game this turn.
+{R}{B} Sacrifice this creature. Your opponents cast a copy of the next spell you cast this turn.  </text>
+			<prop>
+				<type>Legendary Creature — Pirate Wizard</type>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<color>WB</color>
+				<layout>normal</layout>
+				<pt>3/3</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/vDLhdyg.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
 	</cards>
 </cockatrice_carddatabase>
