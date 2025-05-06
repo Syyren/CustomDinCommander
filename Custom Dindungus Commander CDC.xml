@@ -121,6 +121,28 @@ As long as you have at least 40 more life than your starting life total, creatur
 			<tablerow>2</tablerow>
 		</card>
 		
+		
+				<card>
+			<name>Centuris</name>
+			<text>Whenever you cast a spell from exile, time travel.
+{1} Exile a nonland card from your hand: Put time counters on the exiled card equal to its mana value. If it doesn’t have suspend, it gains suspend. </text>
+			<prop>
+				<type>Legendary Creature — Weird</type>
+				<manacost>1UUR</manacost>
+				<cmc>4</cmc>
+				<color>UR</color>
+				<layout>normal</layout>
+				<pt>2/3</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/kL3dkIe.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+				<card>
+			
+		</card>
+		
 				<card>
 			<name>Cheeky Bastard</name>
 			<text>Flash
