@@ -101,7 +101,6 @@ Cards cast and abilities altered by Leon must resolve as written. If no clear ru
 			<reverse-related>Leon, The Rule Bender</reverse-related>
 		</card>
 		
-			<cards>
 		<card>
 			<name>Luxia, Angel of Prosperity</name>
 			<text>Creatures you control have lifelink.
@@ -121,8 +120,7 @@ As long as you have at least 40 more life than your starting life total, creatur
 			<tablerow>2</tablerow>
 		</card>
 		
-		
-				<card>
+		<card>
 			<name>Centuris</name>
 			<text>Whenever you cast a spell from exile, time travel.
 {1} Exile a nonland card from your hand: Put time counters on the exiled card equal to its mana value. If it doesn’t have suspend, it gains suspend. </text>
@@ -143,7 +141,7 @@ As long as you have at least 40 more life than your starting life total, creatur
 			
 		</card>
 		
-				<card>
+		<card>
 			<name>Cheeky Bastard</name>
 			<text>Flash
 When this creature enters, your opponents cannot lose the game this turn.
@@ -160,7 +158,9 @@ When this creature enters, your opponents cannot lose the game this turn.
 			<set rarity="common" picURL="https://i.imgur.com/vDLhdyg.png">CDC</set>
 			<tablerow>2</tablerow>
 		</card>
-					<name>Freedom</name>
+		
+		<card>
+			<name>Freedom</name>
 			<text>(1): Manifest a card from your hand. Any player may activate this ability. {i}(Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.){/i} 
 
 Exile a face-down permanent you control face up: You may play that card this turn. {i}(You still pay its costs. Timing rules still apply.){/i}  </text>
