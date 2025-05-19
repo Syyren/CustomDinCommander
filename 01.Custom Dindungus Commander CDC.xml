@@ -121,6 +121,67 @@ As long as you have at least 40 more life than your starting life total, creatur
 		</card>
 		
 		<card>
+			<name>Era, Timekeeper</name>
+			<text>Indestructible
+As long as your devotion to white and blue is less than seven, Era isn’t a creature.
+At the beginning of each player’s upkeep, that player takes an extra turn after this one. 
+If a player would take an extra turn after taking an extra turn, skip that turn instead.
+Era, Timekeeper cannot be phased out. </text>
+			<prop>
+				<type>Legendary Enchantment Creature — God</type>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<color>WU</color>
+				<layout>normal</layout>
+				<pt>3/4</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/XrSnfDP.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+		
+		<card>
+			<name>Roaming Legends</name>
+			<text>Other nonland permanents are Legendary. The same is true for spells and nonland permanents that aren’t on the battlefield.
+Legendary instant and sorcery spells cost (2) less to cast.
+Whenever you cast a legendary spell during your turn, choose one: 
+•  Amass Shapeshifters 1. 
+•  Target creature gains deathtouch until end of turn. 
+•  Create a token that’s a copy of target creature you control. </text>
+			<prop>
+				<type>Legendary Creature — Shapeshifter Army</type>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<color>UBR</color>
+				<layout>normal</layout>
+				<pt>2/2</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/fcpY1Sj.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+		<card>
+			<name>Just a Little Turtle</name>
+			<text>Hexproof, Indestructible
+You gain “Ward {-} choose another target.” </text>
+			<prop>
+				<type>Legendary Creature — Turtle Wizard</type>
+				<manacost>1WWWR</manacost>
+				<cmc>5</cmc>
+				<color>WR</color>
+				<layout>normal</layout>
+				<pt>1/3</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/pDYTuaS.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
+		
+		
+		
+		<card>
 			<name>Centuris</name>
 			<text>Whenever you cast a spell from exile, time travel.
 {1} Exile a nonland card from your hand: Put time counters on the exiled card equal to its mana value. If it doesn’t have suspend, it gains suspend. </text>
