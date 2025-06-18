@@ -179,7 +179,23 @@ You gain “Ward {-} choose another target.” </text>
 			<tablerow>2</tablerow>
 		</card>
 		
-		
+				<card>
+			<name>Eye of Tomorrow</name>
+			<text>You may cast non-instant spells as though they had flash.
+You may only cast instant spells as a sorcery.
+Instant spells you cast gain “Addendum {-} If you cast this spell during your main phase, it deals 1 damage to any target” </text>
+			<prop>
+				<type>Legendary Artifact Creature — Eye Construct</type>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<color>URW</color>
+				<layout>normal</layout>
+				<pt>2/4</pt>
+				<format-standard>legal</format-standard>
+			</prop>
+			<set rarity="common" picURL="https://i.imgur.com/QiTVZjf.png">CDC</set>
+			<tablerow>2</tablerow>
+		</card>
 		
 		<card>
 			<name>Centuris</name>
